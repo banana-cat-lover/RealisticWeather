@@ -1,0 +1,4 @@
+name: RealWeather
+version: '${project.version}'
+main: me.rt.realweather.RealWeather
+api-version: '1.20'

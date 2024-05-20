@@ -1,0 +1,4 @@
+name: RealWeather
+version: '1.0-SNAPSHOT'
+main: me.rt.realweather.RealWeather
+api-version: '1.20'
